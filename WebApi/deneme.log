@@ -1,0 +1,106 @@
+2021-11-27 23:50:18.109 +03:00 [INF] Now listening on: https://localhost:7283
+2021-11-27 23:50:18.124 +03:00 [INF] Now listening on: http://localhost:5283
+2021-11-27 23:50:18.127 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-11-27 23:50:18.128 +03:00 [INF] Hosting environment: Development
+2021-11-27 23:50:18.128 +03:00 [INF] Content root path: C:\Users\ahmet\source\repos\GymProjectBackend\WebApi\
+2021-11-27 23:50:18.760 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/swagger/index.html - -
+2021-11-27 23:50:19.208 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/_framework/aspnetcore-browser-refresh.js - -
+2021-11-27 23:50:19.215 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/swagger/index.html - - - 200 - text/html;charset=utf-8 460.2684ms
+2021-11-27 23:50:19.216 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/_framework/aspnetcore-browser-refresh.js - - - 200 11940 application/javascript;+charset=utf-8 7.2251ms
+2021-11-27 23:50:19.452 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/swagger/v1/swagger.json - -
+2021-11-27 23:50:19.581 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 129.1685ms
+2021-11-27 23:50:23.108 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7283/api/Try/add-member application/json 355
+2021-11-27 23:50:23.117 +03:00 [INF] Executing endpoint 'WebApi.Controllers.Try.Add (WebApi)'
+2021-11-27 23:50:23.156 +03:00 [INF] Route matched with {action = "Add", controller = "Try"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Add(Entities.Conrete.Member) on controller WebApi.Controllers.Try (WebApi).
+2021-11-28 00:09:29.227 +03:00 [INF] Now listening on: https://localhost:7283
+2021-11-28 00:09:29.236 +03:00 [INF] Now listening on: http://localhost:5283
+2021-11-28 00:09:29.238 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-11-28 00:09:29.238 +03:00 [INF] Hosting environment: Development
+2021-11-28 00:09:29.239 +03:00 [INF] Content root path: C:\Users\ahmet\source\repos\GymProjectBackend\WebApi\
+2021-11-28 00:09:30.482 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/swagger/index.html - -
+2021-11-28 00:09:30.980 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/_framework/aspnetcore-browser-refresh.js - -
+2021-11-28 00:09:30.985 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/swagger/index.html - - - 200 - text/html;charset=utf-8 507.6594ms
+2021-11-28 00:09:30.987 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/_framework/aspnetcore-browser-refresh.js - - - 200 11940 application/javascript;+charset=utf-8 7.0421ms
+2021-11-28 00:09:31.272 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/swagger/v1/swagger.json - -
+2021-11-28 00:09:31.453 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 181.0869ms
+2021-11-28 00:09:34.040 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7283/api/Try/add-member application/json 355
+2021-11-28 00:09:34.046 +03:00 [INF] Executing endpoint 'WebApi.Controllers.Try.Add (WebApi)'
+2021-11-28 00:09:34.069 +03:00 [INF] Route matched with {action = "Add", controller = "Try"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Add(Entities.Conrete.Member) on controller WebApi.Controllers.Try (WebApi).
+2021-11-28 15:33:27.483 +03:00 [INF] Now listening on: https://localhost:7283
+2021-11-28 15:33:27.493 +03:00 [INF] Now listening on: http://localhost:5283
+2021-11-28 15:33:27.497 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-11-28 15:33:27.498 +03:00 [INF] Hosting environment: Development
+2021-11-28 15:33:27.498 +03:00 [INF] Content root path: C:\Users\ahmet\source\repos\GymProjectBackend\WebApi\
+2021-11-28 15:33:28.895 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/swagger/index.html - -
+2021-11-28 15:33:31.067 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/swagger/index.html - - - 200 - text/html;charset=utf-8 2175.9175ms
+2021-11-28 15:33:31.067 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/_framework/aspnetcore-browser-refresh.js - -
+2021-11-28 15:33:31.144 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/_framework/aspnetcore-browser-refresh.js - - - 200 11940 application/javascript;+charset=utf-8 76.4945ms
+2021-11-28 15:33:31.439 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/swagger/v1/swagger.json - -
+2021-11-28 15:33:31.684 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 244.0439ms
+2021-11-28 15:33:39.990 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7283/api/Try/add-member application/json 355
+2021-11-28 15:33:39.998 +03:00 [INF] Executing endpoint 'WebApi.Controllers.Try.Add (WebApi)'
+2021-11-28 15:33:40.021 +03:00 [INF] Route matched with {action = "Add", controller = "Try"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Add(Entities.Conrete.Member) on controller WebApi.Controllers.Try (WebApi).
+2021-11-28 15:34:35.125 +03:00 [INF] Executed action WebApi.Controllers.Try.Add (WebApi) in 55099.9525ms
+2021-11-28 15:34:35.127 +03:00 [INF] Executed endpoint 'WebApi.Controllers.Try.Add (WebApi)'
+2021-11-28 15:34:35.132 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+FluentValidation.ValidationException: Validation failed: 
+ -- Name: 'Name' must not be empty. Severity: Error
+ -- Name: The length of 'Name' must be at least 3 characters. You entered 0 characters. Severity: Error
+   at Core.CrossCuttingConcerns.Validation.ValidationTool.Validate(IValidator validator, Object entity) in C:\Users\ahmet\source\repos\GymProjectBackend\Core\CrossCuttingConcerns\Validation\ValidationTool.cs:line 18
+   at Core.Aspects.Autofac.Validation.ValidationAspect.OnBefore(IInvocation invocation) in C:\Users\ahmet\source\repos\GymProjectBackend\Core\Aspects\Autofac\Validation\ValidationAspect.cs:line 32
+   at Core.Utilities.Interceptors.MethodInterception.Intercept(IInvocation invocation) in C:\Users\ahmet\source\repos\GymProjectBackend\Core\Utilities\Interceptors\MethodInterception.cs:line 19
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Core.Utilities.Interceptors.MethodInterception.Intercept(IInvocation invocation) in C:\Users\ahmet\source\repos\GymProjectBackend\Core\Utilities\Interceptors\MethodInterception.cs:line 22
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.IMemberServiceProxy.Add(Member member)
+   at WebApi.Controllers.Try.Add(Member member) in C:\Users\ahmet\source\repos\GymProjectBackend\WebApi\Controllers\Try.cs:line 52
+   at lambda_method318(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-11-28 15:34:35.261 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7283/api/Try/add-member application/json 355 - 500 - text/plain;+charset=utf-8 55268.9277ms
+2021-11-28 15:34:53.517 +03:00 [INF] Now listening on: https://localhost:7283
+2021-11-28 15:34:53.529 +03:00 [INF] Now listening on: http://localhost:5283
+2021-11-28 15:34:53.534 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-11-28 15:34:53.534 +03:00 [INF] Hosting environment: Development
+2021-11-28 15:34:53.534 +03:00 [INF] Content root path: C:\Users\ahmet\source\repos\GymProjectBackend\WebApi\
+2021-11-28 15:34:54.582 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/swagger/index.html - -
+2021-11-28 15:34:55.124 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/_framework/aspnetcore-browser-refresh.js - -
+2021-11-28 15:34:55.126 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/swagger/index.html - - - 200 - text/html;charset=utf-8 551.3819ms
+2021-11-28 15:34:55.138 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/_framework/aspnetcore-browser-refresh.js - - - 200 11940 application/javascript;+charset=utf-8 14.3236ms
+2021-11-28 15:34:55.344 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7283/api/Try/add-member application/json 355
+2021-11-28 15:34:55.353 +03:00 [INF] Executing endpoint 'WebApi.Controllers.Try.Add (WebApi)'
+2021-11-28 15:34:55.375 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/swagger/v1/swagger.json - -
+2021-11-28 15:34:55.378 +03:00 [INF] Route matched with {action = "Add", controller = "Try"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Add(Entities.Conrete.Member) on controller WebApi.Controllers.Try (WebApi).
+2021-11-28 15:34:55.597 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 221.6102ms
+2021-11-28 15:35:29.111 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7283/api/Try/add-member application/json 355
+2021-11-28 15:35:29.113 +03:00 [INF] Executing endpoint 'WebApi.Controllers.Try.Add (WebApi)'
+2021-11-28 15:35:29.114 +03:00 [INF] Route matched with {action = "Add", controller = "Try"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Add(Entities.Conrete.Member) on controller WebApi.Controllers.Try (WebApi).
+2021-11-28 15:36:25.660 +03:00 [INF] Now listening on: https://localhost:7283
+2021-11-28 15:36:25.667 +03:00 [INF] Now listening on: http://localhost:5283
+2021-11-28 15:36:25.669 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-11-28 15:36:25.670 +03:00 [INF] Hosting environment: Development
+2021-11-28 15:36:25.670 +03:00 [INF] Content root path: C:\Users\ahmet\source\repos\GymProjectBackend\WebApi\
+2021-11-28 15:36:26.864 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/swagger/index.html - -
+2021-11-28 15:36:27.595 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/_framework/aspnetcore-browser-refresh.js - -
+2021-11-28 15:36:27.596 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/swagger/index.html - - - 200 - text/html;charset=utf-8 737.1139ms
+2021-11-28 15:36:27.613 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/_framework/aspnetcore-browser-refresh.js - - - 200 11940 application/javascript;+charset=utf-8 18.0563ms
+2021-11-28 15:36:27.961 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7283/swagger/v1/swagger.json - -
+2021-11-28 15:36:28.117 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7283/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 156.1166ms
+2021-11-28 15:36:28.473 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7283/api/Try/add-member application/json 355
+2021-11-28 15:36:28.479 +03:00 [INF] Executing endpoint 'WebApi.Controllers.Try.Add (WebApi)'
+2021-11-28 15:36:28.509 +03:00 [INF] Route matched with {action = "Add", controller = "Try"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Add(Entities.Conrete.Member) on controller WebApi.Controllers.Try (WebApi).
